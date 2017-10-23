@@ -1,0 +1,5 @@
+{
+  "test_linear_search.py::TestLinearSearch::()::test_letter_in_list": true,
+  "test_linear_search.py::TestLinearSearch::()::test_not_in_list": true,
+  "test_linear_search.py::TestLinearSearch::()::test_number_in_list": true
+}
