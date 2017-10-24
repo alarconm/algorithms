@@ -1,4 +1,10 @@
 {
+  "test_binary_search.py::TestBinarySearch::()::test_list_size_of_two": true,
+  "test_binary_search.py::TestBinarySearch::()::test_negative_number": true,
+  "test_binary_search.py::TestBinarySearch::()::test_not_a_number": true,
+  "test_binary_search.py::TestBinarySearch::()::test_number_not_in_list": true,
+  "test_binary_search.py::TestBinarySearch::()::test_number_sorted_list": true,
+  "test_binary_search.py::TestBinarySearch::()::test_unsorted_list": true,
   "test_linear_search.py::TestLinearSearch::()::test_letter_in_list": true,
   "test_linear_search.py::TestLinearSearch::()::test_not_in_list": true,
   "test_linear_search.py::TestLinearSearch::()::test_number_in_list": true
